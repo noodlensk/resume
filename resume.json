@@ -1,0 +1,182 @@
+{
+    "basics": {
+      "name": "Dmitry Makarenko",
+      "label": "Software engineer",
+      "picture": "",
+      "email": "",
+      "phone": "",
+      "website": "https://noodlensk.github.io",
+      "summary": "I am passionate about creating software products, which can improve every-day life. I always tend to be a diligent person, concentrate upon an objectives and work out it properly. It’s important for me to have self-possession and to be laid-back and modest person for team-members.",
+      "location": {
+        "city": "Novosibirsk",
+        "countryCode": "RU",
+        "region": "Russia",
+        "address": "",
+        "postalCode": ""
+      },
+      "profiles": [
+        {
+          "network": "Github",
+          "username": "noodlensk",
+          "url": "https://github.com/noodlensk"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "FreeDevs",
+        "position": "Software engineer",
+        "website": "http://freedevs.ru/",
+        "startDate": "2010-12-01",
+        "endDate": "2012-07-01",
+        "summary": "Outsourcing. Backend development using PHP and Bitrix.",
+        "highlights": [
+          "Development web projects (shops, web portals, landings, etc.) using 1C Bitrix CMS",
+          "Communication with customers, data analysis and data management",
+          "Development of modules for 1C Bitrix CMS",
+          "Software deployment on customer servers",
+          "Softwaremanualtesting",
+          "Developed common library which was used on all new projects",
+          "Technologies: PHP, JavaScript, MySQL, HTML, CSS2, 1C Bitrix CMS"
+        ]
+      },
+      {
+        "company": "Thor Group",
+        "position": "Software engineer",
+        "website": "http://worest.ru",
+        "startDate": "2012-07-01",
+        "endDate": "2013-06-01",
+        "summary": "",
+        "highlights": [
+          "Development and support ads networks, affiliate programs",
+          "Development and support of the internal services of the company",
+          "Develop and support services for integration with third-party systems(REST, SOAP)",
+          "Improvement architecture of existing services in case of high load",
+          "Designing the architecture of highly available services",
+          "Technologies: PHP, JavaScript, Python, YII, MySQL, Redis"
+        ]
+      },
+      {
+        "company": "Vsemayki.ru",
+        "position": "Senior software engineer",
+        "website": "https://www.vsemayki.ru",
+        "startDate": "2013-06-01",
+        "endDate": "2013-10-01",
+        "summary": "",
+        "highlights": [
+          "Development and support of services which are used for integration with third-party systems (REST, SOAP)",
+          "Development and support of the internal services of the company",
+          "Development and support of site http://www.vsemayki.ru/",
+          "Increased a page load speed by 30% via refactoring internal framework",
+          "Technologies: PHP, JavaScript, Python, Symphony, Tornado, Redis, Postgres, MongoDB"
+        ]
+      },
+      {
+        "company": "Noveo Group",
+        "position": "Senior software engineer",
+        "website": "https://noveogroup.com",
+        "startDate": "2013-11-01",
+        "endDate": "",
+        "summary": "",
+        "highlights": [
+          "Development of projects using a full stack of technologies",
+          "Communication with customer, data analysis and data management",
+          "Serve as the team lead on several backend projects",
+          "Serve as the technical lead on several full stack projects",
+          "Conducting training for students, lectures, consulting",
+          "Improved internal development processes by creating more stable and convenient local environment. (Vagrant/Docker)",
+          "Technologies: PHP, JavaScript, Ruby, Python, Symphony, YII, Backbone, MarionetteJS, SOLID Principles, GRASP, Unit/Functional/ Performance testing, Vagrant, Docker"
+        ]
+      },
+      {
+        "company": "Noveo Group",
+        "position": "Senior software engineer",
+        "website": "https://noveogroup.com",
+        "startDate": "2016-05-01",
+        "endDate": "",
+        "summary": "",
+        "highlights": [
+          "Serve as the technical lead for the build and release environment, including process and infrastructure",
+          "Drive and implement software configuration management and continuous integration initiatives",
+          "Ensure the integrity of development and test environments",
+          "Design and implement appropriate build and release solutions",
+          "Automaterepeatabletaskswherepossible",
+          "Quickly troubleshoot and resolve build and release issues as they arise",
+          "Analysis of build failures and identification of software test and infrastructure failures",
+          "Managing the release checklist",
+          "Work with developers to merge code across branches",
+          "Technologies: Ansible, AWS, Terraform, Docker, Vagrant, Continuous Delivery, Continuous Integration, Postgres, MongoDB, Redis, Kubernetes, Linux, Python, Ruby, GoLang"
+        ]
+      }
+    ],
+    "volunteer": [],
+    "education": [
+      {
+        "institution": "Novosibirsk State Technical University (NSTU)",
+        "website": "http://info.nstu.ru/",
+        "area": "Computer science",
+        "studyType": "Specialist",
+        "startDate": "2007-01-01",
+        "endDate": "2012-01-01",
+        "gpa": "",
+        "courses": [
+          "programming",
+          "linux",
+          "networking"
+        ]
+      }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+      {
+        "name": "Backend Web Development",
+        "level": "Master",
+        "keywords": [
+          "Golang: RESTful, RPC services and CLI tools",
+          "Python: Django, Flask, CLI tools",
+          "Distributed services on Kubernetes and Docker",
+          "Backing-services: Nginx, HAproxy, PostgreSQL, RabbitMQ, Redis",
+          "CI/CD pipelines automation: Jenkins, Ansible",
+          "Git workflows"
+        ]
+      },
+      {
+        "name": "Operations",
+        "level": "Master",
+        "keywords": [
+          "Linux system administration",
+          "Bash scripting",
+          "Cloud providers: AWS",
+          "Orchestration tools like Ansible and Terraform",
+          "Debugging of distributed systems",
+          "Incidents: monitoring, on-call rotation, post-mortems, customer support"
+        ]
+      },
+      {
+        "name": "Frontend Web Development",
+        "level": "intermediate",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "JQuery",
+          "Angular",
+          "React"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "level": "Native"
+      },
+      {
+        "name": "English",
+        "level": "Professional"
+      }
+    ],
+    "interests": [],
+    "references": []
+  }
